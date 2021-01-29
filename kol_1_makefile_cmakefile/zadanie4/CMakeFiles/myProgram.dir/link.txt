@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/myProgram.dir/src/libtest.cpp.o  -o bin/myProgram   -L/home/darak/kolo_snwo/kol_1/zadanie4/lib  -L/usr/local/lib  -Wl,-rpath,/home/darak/kolo_snwo/kol_1/zadanie4/lib:/usr/local/lib lib/libStudent.a 

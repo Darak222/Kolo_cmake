@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/myProgram.dir/home/darak/kolo_snwo/kol_1/zadanie3/src/address.cpp.o CMakeFiles/myProgram.dir/home/darak/kolo_snwo/kol_1/zadanie3/src/employee.cpp.o CMakeFiles/myProgram.dir/home/darak/kolo_snwo/kol_1/zadanie3/src/main.cpp.o  -o myProgram 

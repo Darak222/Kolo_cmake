@@ -1,0 +1,4 @@
+/home/darak/kolo_snwo/kol_1/zadanie4/CMakeFiles/rebuild_cache.dir
+/home/darak/kolo_snwo/kol_1/zadanie4/CMakeFiles/edit_cache.dir
+/home/darak/kolo_snwo/kol_1/zadanie4/CMakeFiles/myProgram.dir
+/home/darak/kolo_snwo/kol_1/zadanie4/CMakeFiles/Student.dir

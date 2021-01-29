@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/darak/kolo_snwo/kol_1/zadanie4/src/libtest.cpp
+Student.h
+/home/darak/kolo_snwo/kol_1/zadanie4/src/Student.h
+
+include/Student.h
+string
+-
+

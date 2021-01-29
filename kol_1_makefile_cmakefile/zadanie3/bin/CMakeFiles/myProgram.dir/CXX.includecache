@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/darak/kolo_snwo/kol_1/zadanie3/src/address.cpp
+string
+-
+
+/home/darak/kolo_snwo/kol_1/zadanie3/src/address.h
+stdio.h
+-
+
+/home/darak/kolo_snwo/kol_1/zadanie3/src/employee.cpp
+address.h
+/home/darak/kolo_snwo/kol_1/zadanie3/src/address.h
+
+/home/darak/kolo_snwo/kol_1/zadanie3/src/employee.h
+
+/home/darak/kolo_snwo/kol_1/zadanie3/src/main.cpp
+employee.h
+/home/darak/kolo_snwo/kol_1/zadanie3/src/employee.h
+address.h
+/home/darak/kolo_snwo/kol_1/zadanie3/src/address.h
+
